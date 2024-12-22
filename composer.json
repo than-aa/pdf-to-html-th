@@ -1,4 +1,5 @@
 {
+    "name": "than-aa/pdf-to-html-th",
     "description": "Package Repository Website Customize",
     "keywords": ["package", "composer"],
     "homepage": "https://packagist.org/",
@@ -20,7 +21,7 @@
           "email": "contact@packagist.org"
     },
     "require": {
-        "php": "^8.3",
+        "php": "^7.2",
         "ext-ctype": "*",
         "ext-iconv": "*",
         "algolia/algoliasearch-client-php": "^3.0",
